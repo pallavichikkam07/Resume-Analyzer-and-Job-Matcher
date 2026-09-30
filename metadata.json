@@ -1,0 +1,6 @@
+{
+  "name": "Vantage Resume Analyzer",
+  "description": "Professional ATS resume evaluation and career intelligence platform powered by n8n cloud automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
